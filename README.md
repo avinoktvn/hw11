@@ -29,3 +29,6 @@ Case 2 clone di jalankan docker
 -setup .env
 -docker compose up
 -jalankan
+
+UNTUK UNIT TESTING
+SUDAH DI COBA TAPI FAIL TERUS MAS
