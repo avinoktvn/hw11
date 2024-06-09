@@ -1,0 +1,182 @@
+[
+  {
+    "title": "Horizon Forbidden West",
+    "developer": "Guerrilla Games",
+    "year": 2022,
+    "genres": "Action, Adventure"
+  },
+  {
+    "title": "Elden Ring",
+    "developer": "FromSoftware",
+    "year": 2022,
+    "genres": "Action, RPG"
+  },
+  {
+    "title": "God of War Ragnarok",
+    "developer": "Santa Monica Studio",
+    "year": 2023,
+    "genres": "Action, Adventure"
+  },
+  {
+    "title": "Starfield",
+    "developer": "Bethesda Game Studios",
+    "year": 2023,
+    "genres": "Action, RPG"
+  },
+  {
+    "title": "The Legend of Zelda: Breath of the Wild 2",
+    "developer": "Nintendo",
+    "year": 2023,
+    "genres": "Action, Adventure"
+  },
+  {
+    "title": "Gotham Knights",
+    "developer": "WB Games Montréal",
+    "year": 2022,
+    "genres": "Action, RPG"
+  },
+  {
+    "title": "Hogwarts Legacy",
+    "developer": "Portkey Games",
+    "year": 2022,
+    "genres": "Action, RPG"
+  },
+  {
+    "title": "Forspoken",
+    "developer": "Luminous Productions",
+    "year": 2023,
+    "genres": "Action, Adventure"
+  },
+  {
+    "title": "Gran Turismo 7",
+    "developer": "Polyphony Digital",
+    "year": 2023,
+    "genres": "Racing, Simulation"
+  },
+  {
+    "title": "Final Fantasy XVI",
+    "developer": "Square Enix",
+    "year": 2023,
+    "genres": "RPG"
+  },
+  {
+    "title": "Deathloop",
+    "developer": "Arkane Studios",
+    "year": 2022,
+    "genres": "Action, Adventure"
+  },
+  {
+    "title": "Hellblade II: Senua's Saga",
+    "developer": "Ninja Theory",
+    "year": 2023,
+    "genres": "Action, Adventure"
+  },
+  {
+    "title": "Forza Horizon 5",
+    "developer": "Playground Games",
+    "year": 2021,
+    "genres": "Racing"
+  },
+  {
+    "title": "Redfall",
+    "developer": "Arkane Studios",
+    "year": 2022,
+    "genres": "Action, FPS"
+  },
+  {
+    "title": "Eternal Cylinder",
+    "developer": "ACE Team",
+    "year": 2022,
+    "genres": "Adventure, Survival"
+  },
+  {
+    "title": "Returnal",
+    "developer": "Housemarque",
+    "year": 2021,
+    "genres": "Action, Shooter"
+  },
+  {
+    "title": "Dying Light 2",
+    "developer": "Techland",
+    "year": 2022,
+    "genres": "Action, Horror"
+  },
+  {
+    "title": "Battlefield 2042",
+    "developer": "DICE",
+    "year": 2021,
+    "genres": "Action, FPS"
+  },
+  {
+    "title": "Rainbow Six Quarantine",
+    "developer": "Ubisoft",
+    "year": 2022,
+    "genres": "Action, FPS"
+  },
+  {
+    "title": "Far Cry 6",
+    "developer": "Ubisoft",
+    "year": 2021,
+    "genres": "Action, FPS"
+  },
+  {
+    "title": "Ghostwire: Tokyo",
+    "developer": "Tango Gameworks",
+    "year": 2022,
+    "genres": "Action, Horror"
+  },
+  {
+    "title": "Atomic Heart",
+    "developer": "Mundfish",
+    "year": 2022,
+    "genres": "Action, RPG"
+  },
+  {
+    "title": "Vampire: The Masquerade – Bloodlines 2",
+    "developer": "Hardsuit Labs",
+    "year": 2022,
+    "genres": "Action, RPG"
+  },
+  {
+    "title": "Sifu",
+    "developer": "Sloclap",
+    "year": 2022,
+    "genres": "Action, Fighting"
+  },
+  {
+    "title": "Chernobylite",
+    "developer": "The Farm 51",
+    "year": 2021,
+    "genres": "Survival, RPG"
+  },
+  {
+    "title": "Kena: Bridge of Spirits",
+    "developer": "Ember Lab",
+    "year": 2021,
+    "genres": "Action, Adventure"
+  },
+  {
+    "title": "Ratchet & Clank: Rift Apart",
+    "developer": "Insomniac Games",
+    "year": 2021,
+    "genres": "Action, Platformer"
+  },
+  {
+    "title": "Resident Evil Village",
+    "developer": "Capcom",
+    "year": 2021,
+    "genres": "Action, Horror"
+  },
+  {
+    "title": "Demon's Souls",
+    "developer": "Bluepoint Games",
+    "year": 2020,
+    "genres": "Action, RPG"
+  },
+  {
+    "title": "Marvel's Spider-Man: Miles Morales",
+    "developer": "Insomniac Games",
+    "year": 2020,
+    "genres": "Action, Adventure"
+  }
+]
