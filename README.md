@@ -30,5 +30,5 @@ Case 2 clone di jalankan docker
 -docker compose up
 -jalankan
 
-UNTUK UNIT TESTING
+MENYERAH DI UNIT TESTING
 SUDAH DI COBA TAPI FAIL TERUS MAS
