@@ -35,24 +35,26 @@
 
 const { Games } = require("../models");
 
-exports.findAll = async (req, res) => {
+exports.findAll = async (req, res, next) => {
   try {
     const games = await Games.findAll();
     res.status(200).json(games);
   } catch (error) {
-    res.status(500).json({ message: "Internal Server Error" });
+    next(error); // Pass error to the error handler middleware
   }
 };
 
-exports.findOne = async (req, res) => {
+exports.findOne = async (req, res, next) => {
   try {
     const game = await Games.findByPk(req.params.id);
     if (game) {
       res.status(200).json(game);
     } else {
-      res.status(404).json({ message: "Game Not Found" });
+      const error = new Error("Game Not Found");
+      error.name = "ErrorNotFound";
+      throw error; // Throw error with custom name
     }
   } catch (error) {
-    res.status(500).json({ message: "Internal Server Error" });
+    next(error); // Pass error to the error handler middleware
   }
 };
